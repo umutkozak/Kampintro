@@ -1,0 +1,15 @@
+C:\Users\umut\source\repos\Kampintro\GameBackend\obj\Debug\net6.0\GameBackend.csproj.AssemblyReference.cache
+C:\Users\umut\source\repos\Kampintro\GameBackend\obj\Debug\net6.0\GameBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut\source\repos\Kampintro\GameBackend\obj\Debug\net6.0\GameBackend.AssemblyInfoInputs.cache
+C:\Users\umut\source\repos\Kampintro\GameBackend\obj\Debug\net6.0\GameBackend.AssemblyInfo.cs
+C:\Users\umut\source\repos\Kampintro\GameBackend\obj\Debug\net6.0\GameBackend.csproj.CoreCompileInputs.cache
+C:\Users\umut\source\repos\Kampintro\GameBackend\bin\Debug\net6.0\GameBackend.exe
+C:\Users\umut\source\repos\Kampintro\GameBackend\bin\Debug\net6.0\GameBackend.deps.json
+C:\Users\umut\source\repos\Kampintro\GameBackend\bin\Debug\net6.0\GameBackend.runtimeconfig.json
+C:\Users\umut\source\repos\Kampintro\GameBackend\bin\Debug\net6.0\GameBackend.dll
+C:\Users\umut\source\repos\Kampintro\GameBackend\bin\Debug\net6.0\GameBackend.pdb
+C:\Users\umut\source\repos\Kampintro\GameBackend\obj\Debug\net6.0\GameBackend.dll
+C:\Users\umut\source\repos\Kampintro\GameBackend\obj\Debug\net6.0\refint\GameBackend.dll
+C:\Users\umut\source\repos\Kampintro\GameBackend\obj\Debug\net6.0\GameBackend.pdb
+C:\Users\umut\source\repos\Kampintro\GameBackend\obj\Debug\net6.0\GameBackend.genruntimeconfig.cache
+C:\Users\umut\source\repos\Kampintro\GameBackend\obj\Debug\net6.0\ref\GameBackend.dll
